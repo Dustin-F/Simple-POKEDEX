@@ -21,7 +21,6 @@ This is a simple Pokedex web application that allows users to search for Pokémo
 ## Demo
 ![Pokedex Screenshot](who.png)  
 ![Pokedex Screenshot](mew.png) 
-*(Optional: Replace `link-to-screenshot` with the URL of a screenshot or remove this section if not needed.)*
 
 ## Getting Started
 1. Clone the repository:
