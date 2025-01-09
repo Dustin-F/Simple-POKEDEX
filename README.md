@@ -19,7 +19,8 @@ This is a simple Pokedex web application that allows users to search for Pokémo
 3. View the Pokémon's shiny sprite, name, and type.
 
 ## Demo
-![Pokedex Screenshot](link-to-screenshot)  
+![Pokedex Screenshot](who.png)  
+![Pokedex Screenshot](mew.png) 
 *(Optional: Replace `link-to-screenshot` with the URL of a screenshot or remove this section if not needed.)*
 
 ## Getting Started
