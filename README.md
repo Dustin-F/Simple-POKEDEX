@@ -1,7 +1,7 @@
 # Simple Pokedex Project
 
 This is a simple Pokedex web application that allows users to search for Pokémon by name and display their details. The app uses the [PokéAPI](https://pokeapi.co/) to fetch Pokémon data, including their name, image, and type.
-
+my first project working with APIs
 ## Features
 - **Search Functionality**: Enter a Pokémon's name to view its details.
 - **Dynamic Display**: Shows the Pokémon's name, shiny sprite, and primary type.
