@@ -1,7 +1,7 @@
 document.querySelector("button").addEventListener("click", fetchPokemon);
 
 function fetchPokemon() {
-  let pokemon = document.querySelector("input").value;
+  let pokemon = document.querySelector("input").value.toLowerCase();
 
   fetch(`https://pokeapi.co/api/v2/pokemon/${pokemon}?offset=500&limit=500`)
     .then((res) => res.json()) // parse response as JSON
